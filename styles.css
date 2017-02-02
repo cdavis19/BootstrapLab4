@@ -5,7 +5,7 @@
 
 
 .column {
-  border: 1px solid;
+  border: 2px solid;
   background-color: red;
 }
 
@@ -58,10 +58,3 @@ h1{
 .four p{
   color: white;
 }
-
-
-<label>
-  <input type="checkbox"> Check me out
-</label>
-</div>
-<button type="submit" class="btn btn-default">Submit</button>
